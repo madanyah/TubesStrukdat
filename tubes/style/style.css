@@ -1,0 +1,9 @@
+.root{
+    -fx-background-color: white;
+}
+.split1{
+    -fx-background-color: pink;
+}
+.split2{
+    -fx-background-color: grey;
+}
